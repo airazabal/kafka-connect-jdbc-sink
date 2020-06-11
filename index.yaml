@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  kafka-connectors:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-11T11:25:40.952301515Z"
+    description: A Helm chart for Kubernetes
+    digest: 47d3bad31310d5ab1187714664d73b16de2fee75250a1cdf4ce0afd8142caff3
+    name: kafka-connectors
+    urls:
+    - https://airazabal.github.io/kafka-connect-jdbc-sink/kafka-connectors-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-11T11:25:40.950970294Z"

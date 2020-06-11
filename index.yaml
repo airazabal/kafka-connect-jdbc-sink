@@ -3,11 +3,11 @@ entries:
   kafka-connectors:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-11T15:24:54.221174913Z"
+    created: "2020-06-11T15:26:26.588860774Z"
     description: A Helm chart for Kubernetes
-    digest: 3a5530f35ab1a7ebdac53a1259c3e53fba9d8e9af300b3b025b139006d31982d
+    digest: b4384a4d1a5251e00d17670293bba7eaa78d003406b47d263d2c271061bc607d
     name: kafka-connectors
     urls:
-    - https://airazabal.github.io/kafka-connect-jdbc-sink/kafka-connectors-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-06-11T15:24:54.220132701Z"
+    - https://airazabal.github.io/kafka-connect-jdbc-sink/kafka-connectors-0.1.1.tgz
+    version: 0.1.1
+generated: "2020-06-11T15:26:26.587790974Z"

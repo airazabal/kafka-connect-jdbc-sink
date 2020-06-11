@@ -26,7 +26,7 @@ jobs:
         run: |
           mkdir -p public
           cd public
-          helm package ../helm/kafka-connectors
+          helm package ../chart/kafka-connectors
           cd -
 
       - name: Generate index

@@ -50,8 +50,8 @@
       <url>http://packages.confluent.io/maven/</url>
     </repository>
     <repository>
-      <id>kafka-connect-jdbc-sink-github</id>
-      <url>https://maven.pkg.github.com/seansund/kafka-connect-jdbc-sink</url>
+      <id>kafka-connect-sink-github</id>
+      <url>https://maven.pkg.github.com/airazabal/kafka-connect-jdbc-sink</url>
       <releases><enabled>true</enabled></releases>
       <snapshots><enabled>true</enabled></snapshots>
     </repository>

@@ -27,6 +27,7 @@ jobs:
           # apk upgrade
           apk add bash
           apk add curl
+          apk add openssl
 
       - name: Install helm
         run: |

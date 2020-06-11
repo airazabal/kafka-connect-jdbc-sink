@@ -46,7 +46,6 @@ spec:
             httpGet:
               path: /
               port: http
-          restartPolicy: Always
       terminationGracePeriodSeconds: 30
       dnsPolicy: ClusterFirst
       securityContext: {}

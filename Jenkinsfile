@@ -151,7 +151,7 @@ spec:
             optional: true
       env:
         - name: CHART_NAME
-          value: helm
+          value: kafka-connectors
         - name: CHART_ROOT
           value: chart
         - name: TMP_DIR
